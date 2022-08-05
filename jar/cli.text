@@ -1,0 +1,8 @@
+
+
+swagger-codegen
+java -jar swagger-codegen-cli-3.0.9.jar generate -i json 스팩 주소 -l 사용언어 -o output 경로
+
+
+openapi-generator
+java -jar openapi-generator-cli-6.0.1.jar generate -i  -g 사용언어 -o output 경로
